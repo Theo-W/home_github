@@ -1,6 +1,6 @@
-## Hi I'm Théo Wittig 
+## Hi I'm Théo Wittig :wave:
 
-### I am a French devoloper. I'm 18 years old.
+### I am a French devoloper. I'm 18 years old. :mortar_board:
 I am a backend developer, I go from web integration (JS HTML CSS).
 you can go see my portfolio [theowittig.fr](https://theowittig.fr)
 
