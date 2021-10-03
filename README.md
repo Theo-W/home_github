@@ -1,4 +1,4 @@
-## Hi I'm Théo Wittig wave
+## Hi I'm Théo Wittig 
 
 ### I am a French devoloper. I'm 18 years old.
 I am a backend developer, I go from web integration (JS HTML CSS).
