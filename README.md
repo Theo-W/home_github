@@ -1,7 +1,7 @@
 Hi 👋 My name is Théo Wittig
 ========================================
 
-I am a backend developer, I go from web integration (JS HTML CSS). you can go see my portfolio theowittig.fr
+I am a backend developer, I go from web integration (JS HTML CSS).
 ------------------------------------------------------------------------------------------------------------
 
 *   🌍  I'm based in Frensh devoloper
