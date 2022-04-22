@@ -1,4 +1,4 @@
-Hi 👋 My name is Hi I'm Théo Wittig wave
+Hi 👋 My name is Théo Wittig
 ========================================
 
 I am a backend developer, I go from web integration (JS HTML CSS). you can go see my portfolio theowittig.fr
