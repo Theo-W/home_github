@@ -1,4 +1,4 @@
-Hi 👋 My name is Théo Wittig
+Hi 👋 My name is Théo Meunier
 ========================================
 
 I am a backend developer, I go from web integration (JS HTML CSS).
