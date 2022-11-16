@@ -6,7 +6,7 @@ I am a backend developer, I go from web integration (JS HTML CSS).
 
 *   🌍  I'm based in Frensh devoloper
 *   🖥️  See my portfolio at [My Portfolio](http://theomeunier.fr)
-*   ✉️  You can contact me at [contact@theowittig.fr](mailto:contact@theomeunier.fr)
+*   ✉️  You can contact me at [contact@theomeunier.fr](mailto:contact@theomeunier.fr)
 
 ### Skills
 <p align="left">
