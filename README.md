@@ -1,10 +1,10 @@
 Hi 👋 My name is Théo Meunier
 ========================================
 
-I am a backend developer, I go from web integration (JS HTML CSS).
+I am a backend developer, I do web integration (JS HTML CSS).
 ------------------------------------------------------------------------------------------------------------
 
-*   🌍  I'm based in Frensh devoloper
+*   🌍  I'm a french developper
 *   🖥️  See my portfolio at [My Portfolio](http://theomeunier.fr)
 *   ✉️  You can contact me at [contact@theomeunier.fr](mailto:contact@theomeunier.fr)
 
